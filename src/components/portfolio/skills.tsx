@@ -47,6 +47,7 @@ export function Skills() {
             My technical toolkit has been refined through years of hands-on experience,
             continuous learning, and solving complex engineering challenges.
           </p>
+          <p className="mb-4 text-neutral-700">Let&apos;s build something amazing together with these technologies</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -86,7 +87,7 @@ export function Skills() {
                   </div>
                   <div className="text-amber-400 mb-2">Uber</div>
                   <p className="text-sm text-neutral-300">
-                    Building and maintaining critical systems that power Uber's marketplace.
+                    Building and maintaining critical systems that power Uber&apos;s marketplace.
                     Working with React, Node.js, and various cloud technologies.
                   </p>
                 </div>
@@ -115,7 +116,7 @@ export function Skills() {
                   </div>
                   <div className="text-amber-400 mb-2">University Name</div>
                   <p className="text-sm text-neutral-300">
-                    Bachelor's degree with focus on algorithms, data structures,
+                    Bachelor&apos;s degree with focus on algorithms, data structures,
                     and software engineering principles.
                   </p>
                 </div>
@@ -134,6 +135,7 @@ export function Skills() {
             </div>
           </div>
         </div>
+        <p className="text-sm text-neutral-600">There&apos;s always something new to learn</p>
       </div>
     </section>
   );

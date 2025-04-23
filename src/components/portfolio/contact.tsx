@@ -7,11 +7,11 @@ export function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div>
             <div className="inline-block px-4 py-1 bg-amber-400 text-black rounded-full text-sm font-medium mb-6">Get In Touch</div>
-            <h2 className="text-5xl font-black tracking-tighter mb-8">Let's Talk Code</h2>
+            <h2 className="text-5xl font-black tracking-tighter mb-8">Let&apos;s Talk Code</h2>
             
             <div className="space-y-6 text-neutral-700 max-w-lg">
               <p>
-                I'm always interested in hearing about new projects, opportunities,
+                I&apos;m always interested in hearing about new projects, opportunities,
                 and challenges where I can apply my technical expertise.
               </p>
               
@@ -144,7 +144,7 @@ export function Contact() {
                   type="text" 
                   id="subject" 
                   className="w-full px-4 py-3 rounded-lg border border-neutral-200 focus:outline-none focus:ring-2 focus:ring-black"
-                  placeholder="What's this about?"
+                  placeholder="What&apos;s this about?"
                 />
               </div>
               
